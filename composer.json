@@ -1,0 +1,12 @@
+{
+  "name": "jantonio/328/hello",
+  "authors": [
+    {
+      "name": "Jean-Kenneth Antonio",
+      "email": "jantonio2@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
